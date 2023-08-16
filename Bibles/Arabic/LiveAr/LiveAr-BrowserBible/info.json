@@ -1,0 +1,11 @@
+{
+ "name": "Live Arabic, targamet El hayah",
+ "nameEnglish": "Live Arabic, targamet El hayah",
+ "langName": "Arabic",
+ "langNameEnglish": "Arabic",
+ "abbr": "arLive",
+ "id": "LiveAr",
+ "lang": "ar",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Arabic Bible Easy-to-Read Version",
+ "nameEnglish": "Arabic Bible Easy-to-Read Version",
+ "langName": "Arabic",
+ "langNameEnglish": "Arabic",
+ "abbr": "arERV",
+ "id": "ERV-ar",
+ "lang": "ar",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "الكتاب المقدس، الترجمة العربية المبسطة",
+ "nameEnglish": "Arabic Bible SAT",
+ "langName": "Arabic",
+ "langNameEnglish": "Arabic",
+ "abbr": "arSAT",
+ "id": "SAT",
+ "lang": "ar",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "العهد الجديد بالعربية التونسية",
+ "nameEnglish": "Arabic Bible New Testament",
+ "langName": "Arabic",
+ "langNameEnglish": "Arabic",
+ "abbr": "AebNT",
+ "id": "aebNT",
+ "lang": "ar",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

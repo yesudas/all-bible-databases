@@ -1,0 +1,11 @@
+{
+ "name": "الكتاب المقدس",
+ "nameEnglish": "Arabic Bible AVD",
+ "langName": "Arabic",
+ "langNameEnglish": "Arabic",
+ "abbr": "AVD",
+ "id": "AVD",
+ "lang": "ar",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

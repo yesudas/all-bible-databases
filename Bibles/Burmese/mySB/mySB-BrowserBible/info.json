@@ -1,0 +1,11 @@
+{
+ "name": "Myanmar Standard Bible",
+ "nameEnglish": "Myanmar Standard Bible",
+ "langName": "Burmese",
+ "langNameEnglish": "Burmese",
+ "abbr": "mySB",
+ "id": "mySB",
+ "lang": "my",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

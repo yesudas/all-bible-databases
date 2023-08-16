@@ -1,0 +1,11 @@
+{
+ "name": "বাংলা বাইবেল, IRV 2017",
+ "nameEnglish": "Bengali Bible, Indian Revised Version, IRV 2017",
+ "langName": "বাংলা",
+ "langNameEnglish": "Bengali",
+ "abbr": "BenIRV2017",
+ "id": "BIRV2017",
+ "lang": "bn",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

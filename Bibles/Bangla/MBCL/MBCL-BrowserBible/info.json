@@ -1,0 +1,11 @@
+{
+ "name": "Bengali Bible, BBS 2000",
+ "nameEnglish": "Bengali Bible by BBS 2000",
+ "langName": "বাংলা",
+ "langNameEnglish": "Bengali",
+ "abbr": "BenBBS2000",
+ "id": "MBCL",
+ "lang": "bn",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Common Language Burmese Bible",
+ "nameEnglish": "Common Language Burmese Bible",
+ "langName": "Burmese",
+ "langNameEnglish": "Burmese",
+ "abbr": "myCL",
+ "id": "myCL",
+ "lang": "my",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}

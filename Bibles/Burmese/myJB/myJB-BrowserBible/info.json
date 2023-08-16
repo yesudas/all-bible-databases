@@ -1,0 +1,11 @@
+{
+ "name": "Burmese Judson Bible",
+ "nameEnglish": "Burmese Judson Bible",
+ "langName": "Burmese",
+ "langNameEnglish": "Burmese",
+ "abbr": "myJB",
+ "id": "myJB",
+ "lang": "my",
+ "generator": "biblemulticonverter",
+ "dir": "ltr"
+}
